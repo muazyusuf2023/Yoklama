@@ -1,0 +1,36 @@
+body{
+    background: white;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+h2 {
+    text-align: center;
+background: #a1e0ff;
+}
+h5{
+    background: #daf8ff;
+    border: none;
+    border-radius: 10px;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+ol{
+    list-style-type: none;
+    text-align: center;
+    background: aqua;
+}
+ul{
+    text-align: center;
+    background: #ffbfd6;
+    list-style-type: none;
+}
